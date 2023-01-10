@@ -5,7 +5,7 @@ let resumeData = {
     "email":"akrauss419@gmail.com",
     "linkedinId":"Andrew-Krauss",
     "twitterId": "akrauss_419",
-    "roleDescription": "A passionate software developer from the LA area who's curious about all kinds of coding languages.",
+    "roleDescription": "A passionate software developer from the LA area who's curious about all kinds of coding languages and building things that are original and unique.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -107,32 +107,36 @@ let resumeData = {
       {
         "name":"Donut Depot",
         "description":"Web app that allows donut lovers to share their experiences visiting shops and eating donuts.",
-        "imgurl":"images/portfolio/Donut Depot.png"
+        "imgurl":"images/portfolio/Donut Depot.png",
+        "siteurl":"https://donut-depot.herokuapp.com/"
       },
       {
         "name":"Yard Barker",
         "description":"Yard Barker's mission is to provide top-quality helping hands to those who need help with home and yard work.",
-        "imgurl":"images/portfolio/Yard Barker.png"
+        "imgurl":"images/portfolio/Yard Barker.png",
+        "siteurl":"https://yardbarker.herokuapp.com/"
       },
       {
         "name":"Match Pointe",
         "description":"Web app designed to give recreational tennis players the power to create and join their own local tennis leagues.",  
-        "imgurl":"images/portfolio/Match Pointe.png"
+        "imgurl":"images/portfolio/Match Pointe.png",
+        "siteurl":"https://match-pointe.herokuapp.com/"
       },
       {
         "name":"Bruce's Nautical Minesweeper",
         "description":"Classic Minesweeper game with a Finding Nemo theme.",
-        "imgurl":"images/portfolio/Bruce's Nautical Minesweeper.png"
+        "imgurl":"images/portfolio/Bruce's Nautical Minesweeper.png",
+        "siteurl":"https://akrauss419.github.io/Project1/"
       }
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Andrew demonstrated excellent communication and technical skills during the General Assembly Software Engineer Immersive Program. Andrew was very collaborative with his cohort and enjoyed the learning process and asking questions to gain clarity in many concepts. Andrew has a great creative flair and genuine energy that makes him enjoy building projects and taking advantage of a project as a opportunity to apply new skills. As Andrew's Instructional Associate, I am confident he will be a great addition to any team.",
+        "name":"Mario Recinos - General Assembly Instructional Associate"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"I had the pleasure of collaborating with Andrew on several projects. He is an amazing teammate with great problem solving techniques. Andrew has no problem jumping right in and attacking issues from every angle. His passion for resolving issues and streamlining code is inspirational, and when faced with something, his aptitude for researching and applying new techniques is extremely high. Andrew has an exceptional understanding of Javascript, Python, Express, Node, and React. He would not only be a valuable asset to have on any development team, but also be a great help in promoting success towards a mutual goal. I hope I get the opportunity to work with him again in the future.",
+        "name":"Corey Summa - Genereal Assembly Graduate/Classmate"
       }
     ]
   }
