@@ -131,7 +131,7 @@ let resumeData = {
     ],
     "testimonials":[
       {
-        "description":"Andrew demonstrated excellent communication and technical skills during the General Assembly Software Engineer Immersive Program. Andrew was very collaborative with his cohort and enjoyed the learning process and asking questions to gain clarity in many concepts. Andrew has a great creative flair and genuine energy that makes him enjoy building projects and taking advantage of a project as a opportunity to apply new skills. As Andrew's Instructional Associate, I am confident he will be a great addition to any team.",
+        "description":"Andrew demonstrated excellent communication and technical skills during the General Assembly Software Engineer Immersive Program. Andrew was very collaborative with his cohort and enjoyed the learning process and asking questions to gain clarity in many concepts. Andrew has a great creative flair and genuine energy that makes him enjoy building projects and taking advantage of a project as an opportunity to apply new skills. As Andrew's Instructional Associate, I am confident he will be a great addition to any team.",
         "name":"Mario Recinos - General Assembly Instructional Associate"
       },
       {
