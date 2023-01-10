@@ -2,7 +2,6 @@ let resumeData = {
     "imagebaseurl":"",
     "name": "Andy Krauss",
     "role": "Software Developer",
-    "email":"akrauss419@gmail.com",
     "linkedinId":"Andrew-Krauss",
     "twitterId": "akrauss_419",
     "roleDescription": "A passionate software developer from the LA area who's curious about all kinds of coding languages and building things that are original and unique.",
